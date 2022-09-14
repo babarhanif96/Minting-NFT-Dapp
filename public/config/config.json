@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x1eb586B92f362FC97Ed4c7A674def77928bce19D",
+  "TOKEN_ADDRESS": "0x5927D05691329503cDB375992862834fE0Cea1f0",
+  "SCAN_LINK": "https://cronoscan.com/token/0x1eb586B92f362FC97Ed4c7A674def77928bce19D",
+  "NETWORK": {
+    "NAME": "Cronos",
+    "SYMBOL": "CROL",
+    "ID": 25
+  },
+  "NFT_NAME": "CroLicker Club",
+  "SYMBOL": "CLC",
+  "MAX_SUPPLY": 750,
+  "WEI_COST": 3000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 1585000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
